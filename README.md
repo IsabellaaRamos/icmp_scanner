@@ -37,4 +37,7 @@ Scanners de portas e serviços
 
 Scripts de descoberta de hosts na rede
 
-Automação de testes de segurança
+Automação de testes de segurança 
+<br>
+<br>
+<img width="738" height="117" alt="image" src="https://github.com/user-attachments/assets/89cc2375-cc05-4bc0-9db4-4be8a2e93b0f" />
