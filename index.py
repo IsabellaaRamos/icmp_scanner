@@ -15,3 +15,14 @@ if resposta:
 
 else:
     print("Sem resposta")
+
+
+
+
+    import requests
+
+    url = "httpp://httpbin.org/get"
+    resposta = requests.get(url)
+
+    print("Status", resposta.status_code)
+    print
